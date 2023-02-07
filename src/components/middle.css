@@ -1,0 +1,36 @@
+.midd{
+    /* background-color: rgb(242, 120, 216); */
+    height: 400px;
+    text-align: center;
+    
+
+}
+.midd2 {
+    /* background-color: rgb(40, 218, 158); */
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    
+    /* justify-content:space-evenly ; */
+
+}
+.midd3 {
+    /* background-color: rgb(189, 153, 187); */
+    height: 400px;
+    text-align: center;
+}
+.m1{
+position: absolute;
+font-size: 90px;
+top: 25%;
+width: 100%;
+text-align: center;
+
+}
+.m2{
+position: absolute;
+    top: 42%;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+}
